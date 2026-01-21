@@ -1,4 +1,5 @@
 [cdf]
+default_organization_dir = "ice-cream-dataops"
 default_env = "test"
 
 [modules]
